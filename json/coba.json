@@ -1,0 +1,30 @@
+[
+{
+	"nama" : "Jaenudin",
+	"umur" : 28,
+	"nrp"	: "11170952",
+	"lulus"	: true,
+	"hobby" : [
+		"coding",
+		"gamibng"
+	],
+	"pembimbing" :{
+		"pembimbing1" : "Wahyu",
+		"pembimbing2" : "Lilyana asri"
+	}
+},
+{
+	"nama" : "Jaenudin",
+	"umur" : 28,
+	"nrp"	: "11170952",
+	"lulus"	: true,
+	"hobby" : [
+		"coding",
+		"gamibng"
+	],
+	"pembimbing" :{
+		"pembimbing1" : "Wahyu",
+		"pembimbing2" : "Lilyana asri"
+	}
+}
+]
